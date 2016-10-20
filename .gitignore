@@ -1,1 +1,3 @@
 .htaccess_copy
+*.log
+log/
