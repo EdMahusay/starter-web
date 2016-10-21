@@ -4,7 +4,7 @@ Add for rebase example, then more changes
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work together.  Blah.  Blah.
+This repository is for showing how Git and GitHub work together.  Deleted.
 
 ## Purpose
 
